@@ -5,3 +5,6 @@
 # dev envs
 .idea/
 *.iml
+.ipynb_checkpoints/
+*.pyc
+resnet18_cifar10.csv
